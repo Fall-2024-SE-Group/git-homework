@@ -1,4 +1,7 @@
 # git-homework hw5
+Team Number : 30
+Unity id:snair3,ayepuri,snukara
+
 The creation of this repository is done as part of the Git homework assignment (HW5). It illustrates several Git ideas and procedures, such as:
 Getting a Git repository started,
 Making and committing files,
