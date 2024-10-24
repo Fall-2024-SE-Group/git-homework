@@ -2,6 +2,10 @@
 Team Number : 30
 Unity id:snair3,ayepuri,snukara
 
+Screenshot of the webpage:
+![image](https://github.com/user-attachments/assets/6a3633d6-0ea5-4bbe-97e8-3f377aa7f923)
+
+
 The creation of this repository is done as part of the Git homework assignment (HW5). It illustrates several Git ideas and procedures, such as:
 Getting a Git repository started,
 Making and committing files,
