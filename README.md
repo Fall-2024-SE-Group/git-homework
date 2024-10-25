@@ -1,4 +1,5 @@
-# git-homework hw5
+# git-homework hw5  
+# Please check Activity as well to see all the branches created and deleted as mentioned in the homework.
 Team Number : 30
 Unity id:snair3,ayepuri,snukara
 
